@@ -1,0 +1,6 @@
+2012-10-03 16:54:36.189 default DEBUG My second message.
+2012-10-03 16:54:36.189 default INFO  My third message.
+2012-10-03 16:54:36.189 default WARN  My fourth message.
+2012-10-03 16:54:36.189 default ERROR My fifth message.
+2012-10-03 16:54:36.190 default FATAL My sixth message.
+
